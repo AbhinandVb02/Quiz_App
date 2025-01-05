@@ -10,7 +10,6 @@ import {
 } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import quizimage from "../assets/new_quiz.jpg";
-// import quizData from "../assets/data";
 import { FaPlay } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
